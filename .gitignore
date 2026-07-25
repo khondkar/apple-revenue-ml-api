@@ -1,0 +1,8 @@
+.venv/
+.venv-python314-backup/
+__pycache__/
+*.pyc
+.pytest_cache/
+logs/
+.env
+.DS_Store

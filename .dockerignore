@@ -1,0 +1,7 @@
+.venv
+.venv-python314-backup
+.git
+.pytest_cache
+__pycache__
+*.pyc
+logs
